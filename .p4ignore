@@ -1,0 +1,23 @@
+# Ignore project files
+/Project.sln
+/.idea/
+/.vs/
+
+# Ignore generated folders
+/Binaries/*
+/Build/*
+/Intermediate/*
+/DerivedDataCache/*
+/Saved/*
+/enc_temp_folder/*
+
+# Ignore the same things for plugins
+/Plugins/**/Binaries/*
+/Plugins/**/Build/*
+/Plugins/**/Intermediate/*
+/Plugins/**/DerivedDataCache/*
+/Plugins/**/Saved/*
+
+# Don't ignore icon files in Build
+!/Build/Linux
+!/Build/Windows
