@@ -128,9 +128,8 @@ DefaultGraphicsPerformance=Maximum
 AppliedDefaultGraphicsPerformance=Maximum
 
 [/Script/Engine.Engine]
-+ActiveGameNameRedirects=(OldGameName="TP_FirstPersonBP",NewGameName="/Script/WitchHunter")
-+ActiveGameNameRedirects=(OldGameName="/Script/TP_FirstPersonBP",NewGameName="/Script/WitchHunter")
-+ActiveGameNameRedirects=(OldGameName="/Script/HorrorPrototype",NewGameName="/Script/WitchHunter")
++ActiveGameNameRedirects=(OldGameName="TP_FirstPersonBP",NewGameName="/Script/HorrorPrototype")
++ActiveGameNameRedirects=(OldGameName="/Script/TP_FirstPersonBP",NewGameName="/Script/HorrorPrototype")
 NearClipPlane=2.000000
 
 [/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings]
@@ -186,5 +185,3 @@ ChaosSettings=(DefaultThreadingModel=TaskGraph,DedicatedThreadTickMode=VariableC
 [/Script/UnrealEd.CookerSettings]
 bCookOnTheFlyForLaunchOn=False
 
-[URL]
-GameName=WitchHunter

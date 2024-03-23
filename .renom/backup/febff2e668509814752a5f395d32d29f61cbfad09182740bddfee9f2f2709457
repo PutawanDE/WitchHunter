@@ -1,7 +1,6 @@
 [/Script/EngineSettings.GeneralProjectSettings]
 ProjectID=80109D924228159B65AF48BA8C90F402
-ProjectName=WitchHunter
-CopyrightNotice=All Right Reserved 2024.
+ProjectName=First Person BP Game Template
 
 [StartupActions]
 bAddPacks=True
@@ -113,4 +112,3 @@ PerPlatformBuildTarget=()
 
 [/Script/Engine.GameSession]
 MaxPlayers=3
-
